@@ -1,0 +1,256 @@
+header{
+    background-image: url("https://img.freepik.com/premium-photo/luxurious-living-room-with-modern-design-modern-interior-design-european-style_780672-159.jpg?size=626&ext=jpg&ga=GA1.1.151669237.1672909416&semt=sph");
+    background-size: cover;
+}
+.navbar-bg {
+    background-color: #FEFD7E;
+    
+}
+body{
+    background-color: #FAE6D2;
+}
+.navbar-bg li a {
+    color: #C9651A;
+    padding-top: 35px;
+    font-size:16px;
+    font-weight: bold;
+    padding-left: 55px;
+
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+   
+}
+
+.serve-button{
+    background-color: #FEFD7E;
+    color: #C9651A;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    margin-bottom: 150px;
+}
+header{
+    height: 90vh;
+}
+.serve-head{
+    color: #C9651A;
+    padding-top: 150px;
+    
+}
+.serve-carousel{
+    margin-left: 0px;
+    background-position: center;
+    background-size: cover;
+    
+    height: 55vh;
+}
+.date-section{
+    background-color: #FEFD7E;
+    border: 2px solid transparent;
+    border-radius: 10px;
+}
+.footer-container{
+    background-color:#C9651A;
+    color: #FEFD7E;
+    padding: 60px 20px;
+    height:50px ;
+          
+  }
+  {
+    list-style:none;
+        float: left;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 20px;
+        margin-left: 300px;
+        margin-top: -50px;
+}
+{
+    margin-left: 20px;
+    color: white;
+    text-decoration-line: none;
+}
+.bt3{
+    background-color: midnightblue;
+    color:white;
+    border-radius: 20px;
+    border: none;
+    margin-left: 20px;
+
+}
+.text{
+    margin-left: -10px;
+    width: 400px;
+    padding-left: 60px;
+
+
+}
+.pp{
+    margin-left: -30px;
+}
+.tj{
+    margin-top: 443px;
+   
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+   
+    width: 30vw;
+    height: 11vh;
+    padding: 8px 5px;
+    margin-bottom: 5px;
+
+}
+
+.fluid-container{
+    background-image: url("IMG_4968-HDR.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:630px ;
+}
+
+.logo{
+    border-radius: 100%;
+    margin-left: 20px;
+}
+.bt1{
+    background-color: white;
+    color:black;
+    margin-top: -10px;
+     width: 8vw;
+     margin-left: -50px;
+}
+.bt2{
+    background-color: midnightblue;
+    margin-top: 10px;
+    color: white;
+    margin-left: 20px;
+}
+.hm{
+     background-color:#FEFD7E;
+    color: #C8651A;
+    padding-left: 40px;
+     padding-top: 50px;
+     height:85vh ;
+     width: 90vw;
+     margin-top:290px ;
+     margin-left: 60px;
+ }
+.hl{
+    padding-left:25px;
+    margin-left:-20;
+    }
+ h4{
+    text-align: center;
+    margin-top: 40px;
+ }
+.mg{
+   margin-left: 400px;
+   background-position: center;
+   background-size: cover;
+   position: absolute;
+}
+
+.footer-container{
+
+  background-color: #FAE6D2;
+  height:50vh;
+  color: #C9651A;
+  padding: 60px 20px;
+        
+}
+.row{
+   padding-left: 100px;
+   margin-bottom: 30px;
+    }
+.COL-3{
+     float: left;
+     width: 33%;
+}
+
+
+ .h3{
+    margin-top: 40px;
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.left{
+    text-align: left;
+}
+.class{
+    padding-right: 10px;
+}
+.bt4{
+   font-size: 10px;
+   background-color: #FEFD7E;
+   color: #C9651A;
+   width: 7vw;
+   height: 3vh;
+   margin-left: -110px;
+   margin-top: -50px;
+   padding-top: -5px;
+}
+.bt5{
+   font-size: 10px;
+   background-color: #FEFD7E;
+   color: #C9651A;
+   width: 7vw;
+   height: 3vh;
+   margin-top: -50px;
+   padding-top: -5px;
+   margin-left: 30px;
+}
+.p4{
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 22px;
+  margin-left: 15px;
+}
+.cc{
+margin-left: 70px;
+margin-top: -20px;
+}
+.jj{
+background-color: #FAE6D2;
+height: 90vh;
+}
+.bg{
+background-color: white;
+}
+.col2{
+margin-top: -40px;
+background-color: white;
+border-color: whitesmoke;
+border-width: 7px;
+border-style: solid;
+width: 24vw;
+
+}
+.img1{
+margin-top: 10px;
+}
+.gg{
+margin-top: 300px;
+
+}
+.p3{
+margin-top: 20px;
+text-align: center;
+margin-left: -90px;
+
+}
+.hh{
+text-align: center;
+margin-top: 50px;
+}
+.bt6{
+width: 8vw;
+}
+.rr{
+margin-left:20px;
+}
